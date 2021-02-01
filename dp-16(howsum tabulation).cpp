@@ -18,7 +18,7 @@ int main()
     v[0].pop_back();
     v[0].push_back(1);
 
-    for(int i=0; i<n; i++)
+    for(int i=0; i<=n; i++)
     {
         if(v[i][0]>0)
         {
